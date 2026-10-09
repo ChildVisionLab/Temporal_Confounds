@@ -1,0 +1,73 @@
+pID,Run,TrialNum,ImNum,ImCon,CatResponse,CatCorrect,vVerbResponse,VerbCorrect
+5,5,217,4,a,36,1,palte with fork,0
+5,5,218,2,a,36,1,pig,0
+5,5,219,16,b,35,1,NaN,NaN
+5,5,220,11,b,36,0,NaN,NaN
+5,5,221,9,c,36,1,plane,1
+5,5,222,18,c,36,0,bat,1
+5,5,223,2,a,36,1,pig,0
+5,5,224,7,c,36,1,rabbit,0
+5,5,225,14,a,35,1,cheetah,1
+5,5,226,92,a,36,NaN,river,NaN
+5,5,227,24,a,35,1,puffin,1
+5,5,228,23,b,35,1,NaN,NaN
+5,5,229,4,a,36,1,palte with fork,0
+5,5,230,91,c,36,NaN,clouds,NaN
+5,5,231,9,c,36,1,plane,1
+5,5,232,13,b,35,1,NaN,NaN
+5,5,233,17,c,35,1,pigs,0
+5,5,234,24,a,35,1,puffin,1
+5,5,235,7,c,36,1,rabbit,0
+5,5,236,91,c,36,NaN,clouds,NaN
+5,5,237,18,c,36,0,bat,1
+5,5,238,17,c,35,1,pigs,0
+5,5,239,14,a,35,1,cheetah,1
+5,5,240,92,a,36,NaN,river,NaN
+5,5,241,18,c,36,0,bat,1
+5,5,242,91,c,36,NaN,clouds,NaN
+5,5,243,2,a,35,0,pig,0
+5,5,244,92,a,36,NaN,river,NaN
+5,5,245,14,a,35,1,cheetah,1
+5,5,246,91,c,36,NaN,clouds,NaN
+5,5,247,7,c,36,1,rabbit,0
+5,5,248,24,a,35,1,puffin,1
+5,5,249,18,c,36,0,bat,1
+5,5,250,4,a,36,1,palte with fork,0
+5,5,251,13,b,35,1,NaN,NaN
+5,5,252,4,a,36,1,palte with fork,0
+5,5,253,17,c,35,1,pigs,0
+5,5,254,16,b,35,1,NaN,NaN
+5,5,255,14,a,35,1,cheetah,1
+5,5,256,24,a,35,1,puffin,1
+5,5,257,23,b,35,1,NaN,NaN
+5,5,258,17,c,35,1,pigs,0
+5,5,259,9,c,36,1,plane,1
+5,5,260,7,c,36,1,rabbit,0
+5,5,261,11,b,36,0,NaN,NaN
+5,5,262,2,a,35,0,pig,0
+5,5,263,9,c,36,1,plane,1
+5,5,264,92,a,36,NaN,river,NaN
+5,5,265,91,c,36,NaN,clouds,NaN
+5,5,266,18,c,36,0,bat,1
+5,5,267,4,a,36,1,palte with fork,0
+5,5,268,2,a,36,1,pig,0
+5,5,269,7,c,35,0,rabbit,0
+5,5,270,18,c,35,1,bat,1
+5,5,271,24,a,35,1,puffin,1
+5,5,272,9,c,36,1,plane,1
+5,5,273,11,b,36,0,NaN,NaN
+5,5,274,2,a,35,0,pig,0
+5,5,275,9,c,36,1,plane,1
+5,5,276,91,c,36,NaN,clouds,NaN
+5,5,277,23,b,35,1,NaN,NaN
+5,5,278,24,a,35,1,puffin,1
+5,5,279,14,a,35,1,cheetah,1
+5,5,280,17,c,35,1,pigs,0
+5,5,281,16,b,35,1,NaN,NaN
+5,5,282,4,a,36,1,palte with fork,0
+5,5,283,92,a,36,NaN,river,NaN
+5,5,284,17,c,35,1,pigs,0
+5,5,285,92,a,36,NaN,river,NaN
+5,5,286,7,c,35,0,rabbit,0
+5,5,287,13,b,35,1,NaN,NaN
+5,5,288,14,a,35,1,cheetah,1

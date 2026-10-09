@@ -1,0 +1,43 @@
+pID,Run,TrialNum,ImNum,ImCon,CatResponse,CatCorrect,vVerbResponse,VerbCorrect
+10,6,289,20,c,35,1,bear,1
+10,6,290,93,c,35,NaN,NaN,NaN
+10,6,291,17,b,35,1,NaN,NaN
+10,6,292,5,b,36,1,NaN,NaN
+10,6,293,4,c,36,1,railway tracks,1
+10,6,294,9,c,36,1,coffee cup,1
+10,6,295,93,c,35,NaN,NaN,NaN
+10,6,296,6,c,36,1,gun turret,0
+10,6,297,18,b,35,1,NaN,NaN
+10,6,298,6,c,36,1,gun turret,0
+10,6,299,9,c,36,1,coffee cup,1
+10,6,300,4,c,36,1,railway tracks,1
+10,6,301,11,b,35,1,NaN,NaN
+10,6,302,20,c,35,1,bear,1
+10,6,303,5,b,36,1,NaN,NaN
+10,6,304,4,c,36,1,railway tracks,1
+10,6,305,93,c,35,NaN,NaN,NaN
+10,6,306,17,b,35,1,NaN,NaN
+10,6,307,93,c,35,NaN,NaN,NaN
+10,6,308,6,c,36,1,gun turret,0
+10,6,309,20,c,35,1,bear,1
+10,6,310,9,c,36,1,coffee cup,1
+10,6,311,20,c,35,1,bear,1
+10,6,312,9,c,36,1,coffee cup,1
+10,6,313,6,c,36,1,gun turret,0
+10,6,314,11,b,35,1,NaN,NaN
+10,6,315,18,b,35,1,NaN,NaN
+10,6,316,4,c,36,1,railway tracks,1
+10,6,317,11,b,35,1,NaN,NaN
+10,6,318,4,c,36,1,railway tracks,1
+10,6,319,9,c,35,0,coffee cup,1
+10,6,320,93,c,35,NaN,NaN,NaN
+10,6,321,4,c,36,1,railway tracks,1
+10,6,322,20,c,35,1,bear,1
+10,6,323,6,c,36,1,gun turret,0
+10,6,324,9,c,36,1,coffee cup,1
+10,6,325,18,b,35,1,NaN,NaN
+10,6,326,6,c,36,1,gun turret,0
+10,6,327,20,c,35,1,bear,1
+10,6,328,93,c,35,NaN,NaN,NaN
+10,6,329,5,b,36,1,NaN,NaN
+10,6,330,17,b,35,1,NaN,NaN

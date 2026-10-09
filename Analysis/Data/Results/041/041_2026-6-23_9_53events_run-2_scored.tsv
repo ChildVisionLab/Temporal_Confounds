@@ -1,0 +1,61 @@
+pID,Run,TrialNum,ImNum,ImCon,CatResponse,CatCorrect,vVerbResponse,VerbCorrect
+41,2,25,6,b,35,0,faucet,NaN
+41,2,26,11,b,35,1,sleeping wolf in bed,NaN
+41,2,27,16,b,36,0,bat,NaN
+41,2,28,3,b,36,1,spoon on a plate,NaN
+41,2,29,6,c,35,0,faucet,1
+41,2,30,8,a,36,1,plane,1
+41,2,31,14,a,36,0,lioness,1
+41,2,32,3,c,NaN,0,spoon on a plate,1
+41,2,33,16,c,35,1,bat,1
+41,2,34,7,a,36,1,paintbrush,0
+41,2,35,11,c,36,0,sleeping wolf in bed,0
+41,2,36,17,a,36,0,fox sleeping,1
+41,2,37,7,a,36,1,paintbrush,0
+41,2,38,17,a,35,1,fox sleeping,1
+41,2,39,6,c,35,0,faucet,1
+41,2,40,8,a,36,1,plane,1
+41,2,41,11,c,35,1,sleeping wolf in bed,0
+41,2,42,14,a,35,1,lioness,1
+41,2,43,3,c,36,1,spoon on a plate,1
+41,2,44,16,c,35,1,bat,1
+41,2,45,6,b,36,1,faucet,NaN
+41,2,46,3,b,36,1,spoon on a plate,NaN
+41,2,47,11,b,35,1,sleeping wolf in bed,NaN
+41,2,48,16,b,35,1,bat,NaN
+41,2,49,14,a,36,0,lioness,1
+41,2,50,8,a,36,1,plane,1
+41,2,51,7,a,36,1,paintbrush,0
+41,2,52,11,c,35,1,sleeping wolf in bed,0
+41,2,53,6,c,36,1,faucet,1
+41,2,54,16,c,35,1,bat,1
+41,2,55,3,c,36,1,spoon on a plate,1
+41,2,56,17,a,36,0,fox sleeping,1
+41,2,57,7,a,NaN,0,paintbrush,0
+41,2,58,16,c,35,1,bat,1
+41,2,59,11,c,35,1,sleeping wolf in bed,0
+41,2,60,8,a,36,1,plane,1
+41,2,61,17,a,35,1,fox sleeping,1
+41,2,62,3,c,NaN,0,spoon on a plate,1
+41,2,63,14,a,35,1,lioness,1
+41,2,64,6,c,36,1,faucet,1
+41,2,65,11,b,35,1,sleeping wolf in bed,NaN
+41,2,66,16,b,35,1,bat,NaN
+41,2,67,3,b,36,1,spoon on a plate,NaN
+41,2,68,6,b,36,1,faucet,NaN
+41,2,69,8,a,35,0,plane,1
+41,2,70,14,a,35,1,lioness,1
+41,2,71,11,c,35,1,sleeping wolf in bed,0
+41,2,72,6,c,36,1,faucet,1
+41,2,73,3,c,36,1,spoon on a plate,1
+41,2,74,17,a,35,1,fox sleeping,1
+41,2,75,7,a,36,1,paintbrush,0
+41,2,76,16,c,35,1,bat,1
+41,2,77,14,a,35,1,lioness,1
+41,2,78,3,c,36,1,spoon on a plate,1
+41,2,79,7,a,36,1,paintbrush,0
+41,2,80,11,c,35,1,sleeping wolf in bed,0
+41,2,81,6,c,36,1,faucet,1
+41,2,82,17,a,35,1,fox sleeping,1
+41,2,83,16,c,35,1,bat,1
+41,2,84,8,a,36,1,plane,1

@@ -1,0 +1,61 @@
+pID,Run,TrialNum,ImNum,ImCon,CatResponse,CatCorrect,vVerbResponse,VerbCorrect
+41,3,85,17,b,35,1,two foxes,NaN
+41,3,86,7,b,36,1,scissors,NaN
+41,3,87,8,b,36,1,plane,NaN
+41,3,88,14,b,35,1,lioness,NaN
+41,3,89,19,a,35,1,elephant,1
+41,3,90,7,c,36,1,scissors,1
+41,3,91,5,a,36,1,hat,0
+41,3,92,14,c,35,1,lioness,1
+41,3,93,1,a,36,1,christmas ornament,0
+41,3,94,17,c,35,1,two foxes,1
+41,3,95,8,c,36,1,plane,1
+41,3,96,15,a,35,1,tree trunk,0
+41,3,97,17,c,35,1,two foxes,1
+41,3,98,7,c,36,1,scissors,1
+41,3,99,14,c,35,1,lioness,1
+41,3,100,5,a,36,1,hat,0
+41,3,101,8,c,36,1,plane,1
+41,3,102,1,a,36,1,christmas ornament,0
+41,3,103,19,a,35,1,elephant,1
+41,3,104,15,a,36,0,tree trunk,0
+41,3,105,17,b,35,1,two foxes,NaN
+41,3,106,14,b,35,1,lioness,NaN
+41,3,107,8,b,36,1,plane,NaN
+41,3,108,7,b,36,1,scissors,NaN
+41,3,109,15,a,36,0,tree trunk,0
+41,3,110,14,c,35,1,lioness,1
+41,3,111,1,a,36,1,christmas ornament,0
+41,3,112,19,a,35,1,elephant,1
+41,3,113,7,c,36,1,scissors,1
+41,3,114,17,c,35,1,two foxes,1
+41,3,115,8,c,36,1,plane,1
+41,3,116,5,a,36,1,hat,0
+41,3,117,1,a,36,1,christmas ornament,0
+41,3,118,5,a,36,1,hat,0
+41,3,119,15,a,35,1,tree trunk,0
+41,3,120,19,a,35,1,elephant,1
+41,3,121,7,c,36,1,scissors,1
+41,3,122,14,c,35,1,lioness,1
+41,3,123,17,c,35,1,two foxes,1
+41,3,124,8,c,36,1,plane,1
+41,3,125,7,b,36,1,scissors,NaN
+41,3,126,8,b,36,1,plane,NaN
+41,3,127,14,b,35,1,lioness,NaN
+41,3,128,17,b,36,0,two foxes,NaN
+41,3,129,15,a,36,0,tree trunk,0
+41,3,130,19,a,35,1,elephant,1
+41,3,131,17,c,35,1,two foxes,1
+41,3,132,5,a,36,1,hat,0
+41,3,133,14,c,35,1,lioness,1
+41,3,134,8,c,36,1,plane,1
+41,3,135,7,c,36,1,scissors,1
+41,3,136,1,a,36,1,christmas ornament,0
+41,3,137,15,a,35,1,tree trunk,0
+41,3,138,8,c,36,1,plane,1
+41,3,139,19,a,35,1,elephant,1
+41,3,140,7,c,36,1,scissors,1
+41,3,141,1,a,36,1,christmas ornament,0
+41,3,142,14,c,35,1,lioness,1
+41,3,143,17,c,35,1,two foxes,1
+41,3,144,5,a,36,1,hat,0

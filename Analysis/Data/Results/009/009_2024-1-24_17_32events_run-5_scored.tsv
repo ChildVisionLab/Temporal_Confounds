@@ -1,0 +1,73 @@
+pID,Run,TrialNum,ImNum,ImCon,CatResponse,CatCorrect,vVerbResponse,VerbCorrect
+9,5,217,6,b,36,1,NaN,NaN
+9,5,218,12,c,35,1,penguin,1
+9,5,219,5,a,36,1,satchel,1
+9,5,220,9,b,36,1,NaN,NaN
+9,5,221,95,a,36,NaN,NaN,NaN
+9,5,222,19,c,35,1,elephants,1
+9,5,223,92,c,36,NaN,NaN,NaN
+9,5,224,11,a,35,1,small mammal,0
+9,5,225,2,c,36,1,axe,1
+9,5,226,17,a,35,1,baby big cat,1
+9,5,227,18,a,35,1,puffin,1
+9,5,228,92,c,36,NaN,NaN,NaN
+9,5,229,2,c,36,1,axe,1
+9,5,230,13,c,35,1,leopard,1
+9,5,231,12,c,35,1,penguin,1
+9,5,232,17,a,35,1,baby big cat,1
+9,5,233,20,b,35,1,NaN,NaN
+9,5,234,13,c,35,1,leopard,1
+9,5,235,19,c,35,1,elephants,1
+9,5,236,5,a,36,1,satchel,1
+9,5,237,11,a,35,1,small mammal,0
+9,5,238,18,a,35,1,puffin,1
+9,5,239,4,b,36,1,NaN,NaN
+9,5,240,95,a,35,NaN,NaN,NaN
+9,5,241,11,a,35,1,small mammal,0
+9,5,242,6,b,36,1,NaN,NaN
+9,5,243,19,c,35,1,elephants,1
+9,5,244,20,b,35,1,NaN,NaN
+9,5,245,2,c,36,1,axe,1
+9,5,246,95,a,35,NaN,NaN,NaN
+9,5,247,2,c,36,1,axe,1
+9,5,248,13,c,35,1,leopard,1
+9,5,249,18,a,35,1,puffin,1
+9,5,250,17,a,35,1,baby big cat,1
+9,5,251,95,a,36,NaN,NaN,NaN
+9,5,252,92,c,36,NaN,NaN,NaN
+9,5,253,12,c,35,1,penguin,1
+9,5,254,9,b,36,1,NaN,NaN
+9,5,255,11,a,35,1,small mammal,0
+9,5,256,5,a,36,1,satchel,1
+9,5,257,12,c,35,1,penguin,1
+9,5,258,4,b,36,1,NaN,NaN
+9,5,259,17,a,35,1,baby big cat,1
+9,5,260,5,a,36,1,satchel,1
+9,5,261,18,a,35,1,puffin,1
+9,5,262,13,c,35,1,leopard,1
+9,5,263,92,c,36,NaN,NaN,NaN
+9,5,264,19,c,35,1,elephants,1
+9,5,265,6,b,36,1,NaN,NaN
+9,5,266,92,c,NaN,NaN,NaN,NaN
+9,5,267,9,b,36,1,NaN,NaN
+9,5,268,20,b,35,1,NaN,NaN
+9,5,269,2,c,36,1,axe,1
+9,5,270,11,a,35,1,small mammal,0
+9,5,271,95,a,35,NaN,NaN,NaN
+9,5,272,4,b,36,1,NaN,NaN
+9,5,273,12,c,35,1,penguin,1
+9,5,274,5,a,36,1,satchel,1
+9,5,275,13,c,35,1,leopard,1
+9,5,276,19,c,35,1,elephants,1
+9,5,277,18,a,35,1,puffin,1
+9,5,278,12,c,35,1,penguin,1
+9,5,279,19,c,35,1,elephants,1
+9,5,280,13,c,35,1,leopard,1
+9,5,281,18,a,35,1,puffin,1
+9,5,282,5,a,36,1,satchel,1
+9,5,283,17,a,35,1,baby big cat,1
+9,5,284,95,a,35,NaN,NaN,NaN
+9,5,285,11,a,35,1,small mammal,0
+9,5,286,92,c,35,NaN,NaN,NaN
+9,5,287,2,c,36,1,axe,1
+9,5,288,17,a,35,1,baby big cat,1

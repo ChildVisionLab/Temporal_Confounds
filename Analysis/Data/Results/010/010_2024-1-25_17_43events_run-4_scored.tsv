@@ -1,0 +1,73 @@
+pID,Run,TrialNum,ImNum,ImCon,CatResponse,CatCorrect,vVerbResponse,VerbCorrect
+10,4,145,93,a,36,NaN,NaN,NaN
+10,4,146,2,b,36,1,NaN,NaN
+10,4,147,1,c,36,1,ball,0
+10,4,148,8,c,35,0,paintbrush,0
+10,4,149,4,a,36,1,street,0
+10,4,150,16,c,36,0,soldier,0
+10,4,151,7,c,36,1,hand & forearm,0
+10,4,152,16,c,36,0,soldier,0
+10,4,153,8,c,35,0,paintbrush,0
+10,4,154,20,a,35,1,bear,1
+10,4,155,13,b,35,1,NaN,NaN
+10,4,156,6,a,36,1,gun turret,0
+10,4,157,94,c,36,NaN,NaN,NaN
+10,4,158,93,a,36,NaN,NaN,NaN
+10,4,159,19,b,35,1,NaN,NaN
+10,4,160,12,b,35,1,NaN,NaN
+10,4,161,4,a,36,1,street,0
+10,4,162,94,c,35,NaN,NaN,NaN
+10,4,163,7,c,36,1,hand & forearm,0
+10,4,164,6,a,36,1,gun turret,0
+10,4,165,9,a,36,1,coffee cup,1
+10,4,166,1,c,36,1,ball,0
+10,4,167,9,a,36,1,coffee cup,1
+10,4,168,20,a,35,1,bear,1
+10,4,169,9,a,36,1,coffee cup,1
+10,4,170,8,c,35,0,paintbrush,0
+10,4,171,93,a,36,NaN,NaN,NaN
+10,4,172,12,b,35,1,NaN,NaN
+10,4,173,7,c,36,1,hand & forearm,0
+10,4,174,94,c,35,NaN,NaN,NaN
+10,4,175,20,a,35,1,bear,1
+10,4,176,4,a,36,1,street,0
+10,4,177,6,a,36,1,gun turret,0
+10,4,178,1,c,36,1,ball,0
+10,4,179,7,c,36,1,hand & forearm,0
+10,4,180,20,a,35,1,bear,1
+10,4,181,16,c,36,0,soldier,0
+10,4,182,9,a,36,1,coffee cup,1
+10,4,183,6,a,36,1,gun turret,0
+10,4,184,8,c,35,0,paintbrush,0
+10,4,185,1,c,36,1,ball,0
+10,4,186,93,a,35,NaN,NaN,NaN
+10,4,187,4,a,36,1,street,0
+10,4,188,94,c,35,NaN,NaN,NaN
+10,4,189,19,b,35,1,NaN,NaN
+10,4,190,2,b,36,1,NaN,NaN
+10,4,191,13,b,35,1,NaN,NaN
+10,4,192,16,c,36,0,soldier,0
+10,4,193,1,c,36,1,ball,0
+10,4,194,9,a,36,1,coffee cup,1
+10,4,195,4,a,36,1,street,0
+10,4,196,6,a,36,1,gun turret,0
+10,4,197,1,c,36,1,ball,0
+10,4,198,8,c,35,0,paintbrush,0
+10,4,199,94,c,35,NaN,NaN,NaN
+10,4,200,13,b,35,1,NaN,NaN
+10,4,201,16,c,36,0,soldier,0
+10,4,202,93,a,35,NaN,NaN,NaN
+10,4,203,19,b,35,1,NaN,NaN
+10,4,204,2,b,36,1,NaN,NaN
+10,4,205,7,c,36,1,hand & forearm,0
+10,4,206,93,a,36,NaN,NaN,NaN
+10,4,207,94,c,35,NaN,NaN,NaN
+10,4,208,20,a,35,1,bear,1
+10,4,209,6,a,36,1,gun turret,0
+10,4,210,7,c,36,1,hand & forearm,0
+10,4,211,4,a,36,1,street,0
+10,4,212,9,a,36,1,coffee cup,1
+10,4,213,8,c,35,0,paintbrush,0
+10,4,214,12,b,35,1,NaN,NaN
+10,4,215,16,c,36,0,soldier,0
+10,4,216,20,a,35,1,bear,1

@@ -1,0 +1,43 @@
+pID,Run,TrialNum,ImNum,ImCon,CatResponse,CatCorrect,vVerbResponse,VerbCorrect
+9,2,31,16,a,NaN,0,baby heads,0
+9,2,32,14,b,35,1,NaN,NaN
+9,2,33,10,b,36,1,NaN,NaN
+9,2,34,3,b,35,0,NaN,NaN
+9,2,35,7,a,36,1,salad fork,0
+9,2,36,8,a,36,1,cars (old),0
+9,2,37,94,a,35,NaN,NaN,NaN
+9,2,38,7,a,36,1,salad fork,0
+9,2,39,94,a,35,NaN,NaN,NaN
+9,2,40,16,a,35,1,baby heads,0
+9,2,41,15,b,35,1,NaN,NaN
+9,2,42,1,a,36,1,stop watch,0
+9,2,43,8,a,36,1,cars (old),0
+9,2,44,1,a,36,1,stop watch,0
+9,2,45,94,a,35,NaN,NaN,NaN
+9,2,46,8,a,36,1,cars (old),0
+9,2,47,1,a,36,1,stop watch,0
+9,2,48,94,a,35,NaN,NaN,NaN
+9,2,49,16,a,35,1,baby heads,0
+9,2,50,7,a,36,1,salad fork,0
+9,2,51,10,b,36,1,NaN,NaN
+9,2,52,1,a,36,1,stop watch,0
+9,2,53,15,b,35,1,NaN,NaN
+9,2,54,7,a,36,1,salad fork,0
+9,2,55,14,b,35,1,NaN,NaN
+9,2,56,16,a,35,1,baby heads,0
+9,2,57,8,a,36,1,cars (old),0
+9,2,58,3,b,36,1,NaN,NaN
+9,2,59,15,b,35,1,NaN,NaN
+9,2,60,16,a,35,1,baby heads,0
+9,2,61,8,a,36,1,cars (old),0
+9,2,62,14,b,35,1,NaN,NaN
+9,2,63,1,a,36,1,stop watch,0
+9,2,64,94,a,35,NaN,NaN,NaN
+9,2,65,7,a,36,1,salad fork,0
+9,2,66,94,a,35,NaN,NaN,NaN
+9,2,67,3,b,36,1,NaN,NaN
+9,2,68,1,a,36,1,stop watch,0
+9,2,69,16,a,35,1,baby heads,0
+9,2,70,10,b,36,1,NaN,NaN
+9,2,71,7,a,36,1,salad fork,0
+9,2,72,8,a,36,1,cars (old),0

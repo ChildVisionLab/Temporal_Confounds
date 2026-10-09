@@ -1,0 +1,31 @@
+pID,Run,TrialNum,ImNum,ImCon,CatResponse,CatCorrect,vVerbResponse,VerbCorrect
+9,7,331,5,c,36,1,satchel,1
+9,7,332,95,c,35,NaN,NaN,NaN
+9,7,333,11,c,35,1,tortoise,1
+9,7,334,18,c,35,1,puffin,1
+9,7,335,95,c,35,NaN,NaN,NaN
+9,7,336,17,c,35,1,two baby foxes,1
+9,7,337,11,c,35,1,tortoise,1
+9,7,338,5,c,36,1,satchel,1
+9,7,339,17,c,35,1,two baby foxes,1
+9,7,340,18,c,35,1,puffin,1
+9,7,341,17,c,35,1,two baby foxes,1
+9,7,342,18,c,35,1,puffin,1
+9,7,343,17,c,35,1,two baby foxes,1
+9,7,344,11,c,35,1,tortoise,1
+9,7,345,5,c,36,1,satchel,1
+9,7,346,95,c,35,NaN,NaN,NaN
+9,7,347,11,c,35,1,tortoise,1
+9,7,348,5,c,36,1,satchel,1
+9,7,349,18,c,35,1,puffin,1
+9,7,350,95,c,36,NaN,NaN,NaN
+9,7,351,17,c,35,1,two baby foxes,1
+9,7,352,95,c,36,NaN,NaN,NaN
+9,7,353,5,c,36,1,satchel,1
+9,7,354,11,c,35,1,tortoise,1
+9,7,355,17,c,35,1,two baby foxes,1
+9,7,356,18,c,35,1,puffin,1
+9,7,357,95,c,36,NaN,NaN,NaN
+9,7,358,11,c,35,1,tortoise,1
+9,7,359,5,c,36,1,satchel,1
+9,7,360,18,c,35,1,puffin,1

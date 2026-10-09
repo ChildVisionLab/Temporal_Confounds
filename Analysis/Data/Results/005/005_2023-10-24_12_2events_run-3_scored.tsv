@@ -1,0 +1,73 @@
+pID,Run,TrialNum,ImNum,ImCon,CatResponse,CatCorrect,vVerbResponse,VerbCorrect
+5,3,73,7,a,35,0,vespa,0
+5,3,74,91,a,36,NaN,water,NaN
+5,3,75,3,b,36,1,NaN,NaN
+5,3,76,12,c,35,1,turtle,1
+5,3,77,9,a,36,1,plane,1
+5,3,78,18,a,36,0,hanging on line,0
+5,3,79,19,b,35,1,NaN,NaN
+5,3,80,10,c,36,1,car,1
+5,3,81,93,c,36,NaN,bush,NaN
+5,3,82,5,c,36,1,train tracks,1
+5,3,83,9,a,36,1,plane,1
+5,3,84,91,a,36,NaN,water,NaN
+5,3,85,93,c,36,NaN,bush,NaN
+5,3,86,21,b,35,1,NaN,NaN
+5,3,87,1,c,36,1,teapot,1
+5,3,88,18,a,35,1,hanging on line,0
+5,3,89,7,a,36,1,vespa,0
+5,3,90,5,c,36,1,train tracks,1
+5,3,91,22,b,35,1,NaN,NaN
+5,3,92,17,a,36,0,pig,0
+5,3,93,12,c,35,1,turtle,1
+5,3,94,1,c,36,1,teapot,1
+5,3,95,17,a,35,1,pig,0
+5,3,96,10,c,36,1,car,1
+5,3,97,9,a,36,1,plane,1
+5,3,98,1,c,36,1,teapot,1
+5,3,99,21,b,35,1,NaN,NaN
+5,3,100,18,a,36,0,hanging on line,0
+5,3,101,1,c,36,1,teapot,1
+5,3,102,18,a,36,0,hanging on line,0
+5,3,103,7,a,36,1,vespa,0
+5,3,104,10,c,36,1,car,1
+5,3,105,93,c,36,NaN,bush,NaN
+5,3,106,12,c,35,1,turtle,1
+5,3,107,5,c,36,1,train tracks,1
+5,3,108,17,a,35,1,pig,0
+5,3,109,12,c,35,1,turtle,1
+5,3,110,17,a,35,1,pig,0
+5,3,111,10,c,36,1,car,1
+5,3,112,9,a,36,1,plane,1
+5,3,113,7,a,36,1,vespa,0
+5,3,114,19,b,35,1,NaN,NaN
+5,3,115,93,c,36,NaN,bush,NaN
+5,3,116,22,b,35,1,NaN,NaN
+5,3,117,91,a,36,NaN,water,NaN
+5,3,118,3,b,36,1,NaN,NaN
+5,3,119,5,c,36,1,train tracks,1
+5,3,120,91,a,36,NaN,water,NaN
+5,3,121,17,a,35,1,pig,0
+5,3,122,12,c,35,1,turtle,1
+5,3,123,5,c,36,1,train tracks,1
+5,3,124,1,c,36,1,teapot,1
+5,3,125,18,a,36,0,hanging on line,0
+5,3,126,9,a,36,1,plane,1
+5,3,127,22,b,35,1,NaN,NaN
+5,3,128,10,c,36,1,car,1
+5,3,129,19,b,35,1,NaN,NaN
+5,3,130,7,a,36,1,vespa,0
+5,3,131,93,c,36,NaN,bush,NaN
+5,3,132,10,c,36,1,car,1
+5,3,133,7,a,36,1,vespa,0
+5,3,134,3,b,36,1,NaN,NaN
+5,3,135,9,a,36,1,plane,1
+5,3,136,1,c,36,1,teapot,1
+5,3,137,18,a,36,0,hanging on line,0
+5,3,138,91,a,36,NaN,water,NaN
+5,3,139,21,b,35,1,NaN,NaN
+5,3,140,93,c,36,NaN,bush,NaN
+5,3,141,91,a,36,NaN,water,NaN
+5,3,142,12,c,35,1,turtle,1
+5,3,143,17,a,35,1,pig,0
+5,3,144,5,c,36,1,train tracks,1

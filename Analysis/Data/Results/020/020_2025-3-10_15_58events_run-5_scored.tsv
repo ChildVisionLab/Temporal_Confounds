@@ -1,0 +1,61 @@
+pID,Run,TrialNum,ImNum,ImCon,CatResponse,CatCorrect,vVerbResponse,VerbCorrect
+20,5,277,20,b,35,1,bear,1
+20,5,278,2,b,36,1,axe,1
+20,5,279,1,b,36,1,teapot,1
+20,5,280,13,b,35,1,leopard,1
+20,5,281,8,b,36,1,old plane,1
+20,5,282,14,b,35,1,lionesses,1
+20,5,283,1,b,36,1,teapot,1
+20,5,284,7,b,36,1,scissors,1
+20,5,285,13,b,35,1,leopard,1
+20,5,286,2,b,36,1,axe,1
+20,5,287,10,b,36,1,car,1
+20,5,288,14,b,35,1,lionesses,1
+20,5,289,15,b,35,1,mountain goat,1
+20,5,290,10,b,36,1,car,1
+20,5,291,7,b,36,1,scissors,1
+20,5,292,16,b,36,0,scrap metal,0
+20,5,293,1,b,36,1,teapot,1
+20,5,294,20,b,35,1,bear,1
+20,5,295,8,b,36,1,old plane,1
+20,5,296,20,b,35,1,bear,1
+20,5,297,15,b,36,0,mountain goat,1
+20,5,298,14,b,35,1,lionesses,1
+20,5,299,20,b,35,1,bear,1
+20,5,300,13,b,35,1,leopard,1
+20,5,301,2,b,36,1,axe,1
+20,5,302,20,b,35,1,bear,1
+20,5,303,10,b,36,1,car,1
+20,5,304,8,b,36,1,old plane,1
+20,5,305,14,b,35,1,lionesses,1
+20,5,306,16,b,36,0,scrap metal,0
+20,5,307,8,b,36,1,old plane,1
+20,5,308,14,b,35,1,lionesses,1
+20,5,309,20,b,35,1,bear,1
+20,5,310,10,b,36,1,car,1
+20,5,311,2,b,36,1,axe,1
+20,5,312,8,b,36,1,old plane,1
+20,5,313,10,b,36,1,car,1
+20,5,314,15,b,35,1,mountain goat,1
+20,5,315,7,b,36,1,scissors,1
+20,5,316,14,b,35,1,lionesses,1
+20,5,317,7,b,36,1,scissors,1
+20,5,318,15,b,35,1,mountain goat,1
+20,5,319,16,b,36,0,scrap metal,0
+20,5,320,2,b,36,1,axe,1
+20,5,321,13,b,35,1,leopard,1
+20,5,322,1,b,36,1,teapot,1
+20,5,323,2,b,36,1,axe,1
+20,5,324,16,b,36,0,scrap metal,0
+20,5,325,7,b,36,1,scissors,1
+20,5,326,1,b,36,1,teapot,1
+20,5,327,15,b,35,1,mountain goat,1
+20,5,328,13,b,35,1,leopard,1
+20,5,329,15,b,35,1,mountain goat,1
+20,5,330,8,b,36,1,old plane,1
+20,5,331,16,b,36,0,scrap metal,0
+20,5,332,7,b,36,1,scissors,1
+20,5,333,13,b,35,1,leopard,1
+20,5,334,1,b,36,1,teapot,1
+20,5,335,10,b,36,1,car,1
+20,5,336,16,b,36,0,scrap metal,0
